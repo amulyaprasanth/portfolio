@@ -6,7 +6,7 @@ export const projects: Project[] = [
         description:
             "An AI-powered Bible Agent that combines semantic search, web search, and Wikipedia retrieval to deliver context-aware answers with persistent conversational history.",
         github: "https://github.com/amulyaprasanth/bible_chatbot",
-        live: "https://versechat.up.railway.app/",
+        live: "https://versechat-ui-production.up.railway.app/chat",
         technologies: [
             "React.js",
             "FastAPI",
@@ -56,7 +56,7 @@ export const projects: Project[] = [
         description:
             "An end-to-end MLOps pipeline for hourly Amazon stock price prediction, automating data ingestion, feature engineering, model training, deployment, and continuous retraining.",
         github: "https://github.com/amulyaprasanth/hourly_amazon_stock_prediction",
-        live: "https://hourlyamazonstockprediction.streamlit.app/",
+        live: "https://amulyaprasanth.github.io/hourly_amazon_stock_prediction/",
 
         technologies: [
             "PyTorch",
