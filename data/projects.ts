@@ -6,7 +6,7 @@ export const projects: Project[] = [
         description:
             "An AI-powered Bible Agent that combines semantic search, web search, and Wikipedia retrieval to deliver context-aware answers with persistent conversational history.",
         github: "https://github.com/amulyaprasanth/bible_chatbot",
-        live: "https://versechat-ui-production.up.railway.app/chat",
+        live: "https://versechat-ui-production.up.railway.app",
         technologies: [
             "React.js",
             "FastAPI",
